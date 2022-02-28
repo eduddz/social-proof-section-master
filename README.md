@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section
+# Social proof section
 ## Welcome! 👋
 
 Projeto desenvolvido com HTML5 e CSS3 com flexbox
